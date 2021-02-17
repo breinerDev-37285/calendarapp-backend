@@ -1,0 +1,822 @@
+[error]: connect ECONNREFUSED 127.0.0.1:27017 -- Tuesday, 16/02/2021, 23:11:46 
+[info]: conexion a la base de datos establecida -- Tuesday, 16/02/2021, 23:22:44 
+[info]: ajustando formato para logs -- Tuesday, 16/02/2021, 23:22:44 
+[warn]: agregando modulos de parseo de informacion... -- Tuesday, 16/02/2021, 23:22:44 
+[info]: generando archivo access.log -- Tuesday, 16/02/2021, 23:22:44 
+[info]: generando archivo error.log -- Tuesday, 16/02/2021, 23:22:44 
+[warn]: cargando rutas de auth... -- Tuesday, 16/02/2021, 23:22:44 
+[info]: inicializando servidor... -- Tuesday, 16/02/2021, 23:22:44 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Tuesday, 16/02/2021, 23:22:44 
+[info]: generando token -- Tuesday, 16/02/2021, 23:22:44 
+[info]: generando token -- Tuesday, 16/02/2021, 23:22:44 
+[info]: conexion a la base de datos establecida -- Tuesday, 16/02/2021, 23:25:10 
+[info]: ajustando formato para logs -- Tuesday, 16/02/2021, 23:25:10 
+[warn]: agregando modulos de parseo de informacion... -- Tuesday, 16/02/2021, 23:25:10 
+[info]: generando archivo access.log -- Tuesday, 16/02/2021, 23:25:10 
+[info]: generando archivo error.log -- Tuesday, 16/02/2021, 23:25:10 
+[warn]: cargando rutas de auth... -- Tuesday, 16/02/2021, 23:25:10 
+[info]: inicializando servidor... -- Tuesday, 16/02/2021, 23:25:10 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Tuesday, 16/02/2021, 23:25:10 
+[info]: conexion a la base de datos establecida -- Tuesday, 16/02/2021, 23:25:23 
+[info]: ajustando formato para logs -- Tuesday, 16/02/2021, 23:25:23 
+[warn]: agregando modulos de parseo de informacion... -- Tuesday, 16/02/2021, 23:25:23 
+[info]: generando archivo access.log -- Tuesday, 16/02/2021, 23:25:23 
+[info]: generando archivo error.log -- Tuesday, 16/02/2021, 23:25:23 
+[warn]: cargando rutas de auth... -- Tuesday, 16/02/2021, 23:25:23 
+[info]: inicializando servidor... -- Tuesday, 16/02/2021, 23:25:23 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Tuesday, 16/02/2021, 23:25:23 
+[info]: conexion a la base de datos establecida -- Tuesday, 16/02/2021, 23:26:30 
+[info]: ajustando formato para logs -- Tuesday, 16/02/2021, 23:26:30 
+[warn]: agregando modulos de parseo de informacion... -- Tuesday, 16/02/2021, 23:26:30 
+[info]: generando archivo access.log -- Tuesday, 16/02/2021, 23:26:30 
+[info]: generando archivo error.log -- Tuesday, 16/02/2021, 23:26:30 
+[warn]: cargando rutas de auth... -- Tuesday, 16/02/2021, 23:26:30 
+[info]: inicializando servidor... -- Tuesday, 16/02/2021, 23:26:30 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Tuesday, 16/02/2021, 23:26:30 
+[info]: generando token -- Tuesday, 16/02/2021, 23:26:30 
+[info]: generando token -- Tuesday, 16/02/2021, 23:26:30 
+[info]: generando token -- Tuesday, 16/02/2021, 23:26:30 
+[info]: generando token -- Tuesday, 16/02/2021, 23:26:30 
+[info]: generando token -- Tuesday, 16/02/2021, 23:26:30 
+[info]: generando token -- Tuesday, 16/02/2021, 23:26:30 
+[info]: conexion a la base de datos establecida -- Tuesday, 16/02/2021, 23:59:28 
+[info]: ajustando formato para logs -- Tuesday, 16/02/2021, 23:59:28 
+[warn]: agregando modulos de parseo de informacion... -- Tuesday, 16/02/2021, 23:59:28 
+[info]: generando archivo access.log -- Tuesday, 16/02/2021, 23:59:28 
+[info]: generando archivo error.log -- Tuesday, 16/02/2021, 23:59:28 
+[warn]: cargando rutas de auth... -- Tuesday, 16/02/2021, 23:59:28 
+[info]: inicializando servidor... -- Tuesday, 16/02/2021, 23:59:28 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Tuesday, 16/02/2021, 23:59:28 
+[info]: generando token -- Tuesday, 16/02/2021, 23:59:28 
+[error]: undefined -- Tuesday, 16/02/2021, 23:59:28 
+[error]: undefined -- Tuesday, 16/02/2021, 23:59:28 
+[error]: undefined -- Tuesday, 16/02/2021, 23:59:28 
+[error]: undefined -- Tuesday, 16/02/2021, 23:59:28 
+[info]: generando token -- Tuesday, 16/02/2021, 23:59:28 
+[error]: undefined -- Tuesday, 16/02/2021, 23:59:28 
+[error]: undefined -- Tuesday, 16/02/2021, 23:59:28 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 00:01:01 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 00:01:01 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 00:01:01 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 00:01:01 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 00:01:01 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 00:01:01 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 00:01:01 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 00:01:01 
+[error]: undefined -- Wednesday, 17/02/2021, 00:01:01 
+[error]: undefined -- Wednesday, 17/02/2021, 00:01:01 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 00:01:39 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 00:01:39 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 00:01:39 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 00:01:39 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 00:01:39 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 00:01:39 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 00:01:39 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 00:01:39 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 00:02:12 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 00:02:12 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 00:02:12 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 00:02:12 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 00:02:12 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 00:02:12 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 00:02:12 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 00:02:12 
+[error]: undefined -- Wednesday, 17/02/2021, 00:02:12 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 00:02:45 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 00:02:45 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 00:02:45 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 00:02:45 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 00:02:45 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 00:02:45 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 00:02:45 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 00:02:45 
+[error]: undefined -- Wednesday, 17/02/2021, 00:02:45 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 00:03:14 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 00:03:14 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 00:03:14 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 00:03:14 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 00:03:14 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 00:03:14 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 00:03:14 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 00:03:14 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 00:03:55 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 00:03:55 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 00:03:55 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 00:03:55 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 00:03:55 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 00:03:55 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 00:03:55 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 00:03:55 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 00:04:44 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 00:04:44 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 00:04:44 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 00:04:44 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 00:04:44 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 00:04:44 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 00:04:44 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 00:04:44 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 00:05:31 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 00:05:31 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 00:05:31 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 00:05:31 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 00:05:31 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 00:05:31 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 00:05:31 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 00:05:31 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 00:06:26 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 00:06:26 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 00:06:26 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 00:06:26 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 00:06:26 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 00:06:26 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 00:06:26 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 00:06:26 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 00:06:41 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 00:06:41 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 00:06:41 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 00:06:41 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 00:06:41 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 00:06:41 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 00:06:41 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 00:06:41 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 00:07:37 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 00:07:37 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 00:07:37 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 00:07:37 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 00:07:37 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 00:07:37 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 00:07:37 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 00:07:37 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 00:07:58 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 00:07:58 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 00:07:58 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 00:07:58 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 00:07:58 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 00:07:58 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 00:07:58 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 00:07:58 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 00:09:45 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 00:09:45 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 00:09:45 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 00:09:45 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 00:09:45 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 00:09:45 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 00:09:45 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 00:09:45 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 00:10:35 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 00:10:35 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 00:10:35 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 00:10:35 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 00:10:35 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 00:10:35 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 00:10:35 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 00:10:35 
+[info]: generando token -- Wednesday, 17/02/2021, 00:10:35 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 00:11:24 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 00:11:24 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 00:11:24 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 00:11:24 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 00:11:24 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 00:11:24 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 00:11:24 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 00:11:24 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 00:13:11 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 00:13:11 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 00:13:11 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 00:13:11 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 00:13:11 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 00:13:11 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 00:13:11 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 00:13:11 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 00:13:51 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 00:13:51 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 00:13:51 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 00:13:51 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 00:13:51 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 00:13:51 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 00:13:51 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 00:13:51 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 00:14:05 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 00:14:05 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 00:14:05 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 00:14:05 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 00:14:05 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 00:14:05 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 00:14:05 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 00:14:05 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 00:14:41 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 00:14:41 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 00:14:41 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 00:14:41 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 00:14:41 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 00:14:41 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 00:14:41 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 00:14:41 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 00:15:34 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 00:15:34 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 00:15:34 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 00:15:34 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 00:15:34 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 00:15:34 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 00:15:34 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 00:15:34 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 00:15:51 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 00:15:51 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 00:15:51 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 00:15:51 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 00:15:51 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 00:15:51 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 00:15:51 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 00:15:51 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 00:16:25 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 00:16:29 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 00:16:29 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 00:16:29 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 00:16:29 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 00:16:29 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 00:16:29 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 00:16:29 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 00:16:29 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 00:16:48 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 00:16:48 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 00:16:48 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 00:16:48 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 00:16:48 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 00:16:48 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 00:16:48 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 00:16:48 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:08:53 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 08:08:53 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 08:08:53 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 08:08:53 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 08:08:53 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 08:08:53 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 08:08:53 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 08:08:53 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:10:45 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 08:10:45 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 08:10:45 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 08:10:45 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 08:10:45 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 08:10:45 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 08:10:45 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 08:10:45 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:11:56 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 08:11:56 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 08:11:56 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 08:11:56 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 08:11:56 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 08:11:56 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 08:11:56 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 08:11:56 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:14:13 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 08:14:13 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 08:14:13 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 08:14:13 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 08:14:13 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 08:14:13 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 08:14:13 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 08:14:13 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:15:12 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 08:15:12 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 08:15:12 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 08:15:12 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 08:15:12 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 08:15:12 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 08:15:12 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 08:15:12 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:15:56 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 08:15:56 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 08:15:56 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 08:15:56 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 08:15:56 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 08:15:56 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 08:15:56 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 08:15:56 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:16:26 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 08:16:26 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 08:16:26 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 08:16:26 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 08:16:26 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 08:16:26 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 08:16:26 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 08:16:26 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:17:17 
+[error]: undefined -- Wednesday, 17/02/2021, 08:17:17 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:20:12 
+[error]: undefined -- Wednesday, 17/02/2021, 08:20:12 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:20:29 
+[error]: undefined -- Wednesday, 17/02/2021, 08:20:29 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:21:04 
+[error]: undefined -- Wednesday, 17/02/2021, 08:21:04 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:22:36 
+[error]: undefined -- Wednesday, 17/02/2021, 08:22:36 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:22:56 
+[error]: undefined -- Wednesday, 17/02/2021, 08:22:56 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:23:18 
+[error]: undefined -- Wednesday, 17/02/2021, 08:23:18 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:24:10 
+[error]: undefined -- Wednesday, 17/02/2021, 08:24:10 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:24:38 
+[error]: undefined -- Wednesday, 17/02/2021, 08:24:38 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:27:28 
+[error]: undefined -- Wednesday, 17/02/2021, 08:27:28 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:29:53 
+[error]: undefined -- Wednesday, 17/02/2021, 08:29:53 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:31:54 
+[error]: undefined -- Wednesday, 17/02/2021, 08:31:54 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:32:15 
+[error]: undefined -- Wednesday, 17/02/2021, 08:32:15 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:32:24 
+[error]: undefined -- Wednesday, 17/02/2021, 08:32:24 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:32:32 
+[error]: undefined -- Wednesday, 17/02/2021, 08:32:32 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:32:44 
+[error]: undefined -- Wednesday, 17/02/2021, 08:32:44 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:33:54 
+[error]: undefined -- Wednesday, 17/02/2021, 08:33:54 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:34:04 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:34:08 
+[error]: undefined -- Wednesday, 17/02/2021, 08:34:08 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:34:33 
+[error]: undefined -- Wednesday, 17/02/2021, 08:34:33 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:35:23 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:37:43 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:37:54 
+[error]: undefined -- Wednesday, 17/02/2021, 08:37:54 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:38:09 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 08:38:09 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 08:38:09 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 08:38:09 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 08:38:09 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 08:38:09 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 08:38:09 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 08:38:09 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:38:29 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 08:38:29 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 08:38:29 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 08:38:29 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 08:38:29 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 08:38:29 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 08:38:29 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 08:38:29 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:38:40 
+[error]: undefined -- Wednesday, 17/02/2021, 08:38:40 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:39:10 
+[error]: undefined -- Wednesday, 17/02/2021, 08:39:10 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:39:25 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 08:39:25 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 08:39:25 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 08:39:25 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 08:39:25 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 08:39:25 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 08:39:25 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 08:39:25 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:39:46 
+[error]: undefined -- Wednesday, 17/02/2021, 08:39:46 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:41:13 
+[error]: undefined -- Wednesday, 17/02/2021, 08:41:13 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:41:59 
+[error]: undefined -- Wednesday, 17/02/2021, 08:41:59 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:42:38 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 08:42:38 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 08:42:38 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 08:42:38 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 08:42:38 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 08:42:38 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 08:42:38 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 08:42:38 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:43:39 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 08:43:39 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 08:43:39 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 08:43:39 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 08:43:39 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 08:43:39 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 08:43:39 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 08:43:39 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:43:57 
+[error]: undefined -- Wednesday, 17/02/2021, 08:43:57 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:44:17 
+[error]: undefined -- Wednesday, 17/02/2021, 08:44:17 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:44:27 
+[error]: undefined -- Wednesday, 17/02/2021, 08:44:27 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:45:14 
+[error]: undefined -- Wednesday, 17/02/2021, 08:45:14 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:45:47 
+[error]: undefined -- Wednesday, 17/02/2021, 08:45:47 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:47:51 
+[error]: undefined -- Wednesday, 17/02/2021, 08:47:51 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:49:31 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 08:49:31 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 08:49:31 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 08:49:31 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 08:49:31 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 08:49:31 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 08:49:31 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 08:49:31 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:49:59 
+[error]: undefined -- Wednesday, 17/02/2021, 08:49:59 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:50:53 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 08:50:53 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 08:50:53 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 08:50:53 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 08:50:53 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 08:50:53 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 08:50:53 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 08:50:53 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:51:11 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 08:51:11 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 08:51:11 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 08:51:11 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 08:51:11 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 08:51:11 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 08:51:11 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 08:51:11 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:51:23 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 08:51:23 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 08:51:23 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 08:51:23 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 08:51:23 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 08:51:23 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 08:51:23 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 08:51:23 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:51:56 
+[error]: undefined -- Wednesday, 17/02/2021, 08:51:56 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:52:17 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 08:52:17 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 08:52:17 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 08:52:17 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 08:52:17 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 08:52:17 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 08:52:17 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 08:52:17 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:53:43 
+[error]: undefined -- Wednesday, 17/02/2021, 08:53:43 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:54:02 
+[error]: undefined -- Wednesday, 17/02/2021, 08:54:02 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:55:08 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 08:55:08 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 08:55:08 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 08:55:08 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 08:55:08 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 08:55:08 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 08:55:08 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 08:55:08 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:55:25 
+[error]: undefined -- Wednesday, 17/02/2021, 08:55:25 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:55:52 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 08:55:52 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 08:55:52 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 08:55:52 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 08:55:52 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 08:55:52 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 08:55:52 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 08:55:52 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:56:05 
+[error]: undefined -- Wednesday, 17/02/2021, 08:56:05 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:57:29 
+[error]: undefined -- Wednesday, 17/02/2021, 08:57:29 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:57:38 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 08:57:38 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 08:57:38 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 08:57:38 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 08:57:38 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 08:57:38 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 08:57:38 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 08:57:38 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:58:07 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 08:58:07 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 08:58:07 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 08:58:07 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 08:58:07 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 08:58:07 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 08:58:07 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 08:58:07 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:58:24 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 08:58:24 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 08:58:24 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 08:58:24 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 08:58:24 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 08:58:24 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 08:58:24 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 08:58:24 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 08:59:18 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 08:59:18 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 08:59:18 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 08:59:18 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 08:59:18 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 08:59:18 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 08:59:18 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 08:59:18 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:00:13 
+[error]: undefined -- Wednesday, 17/02/2021, 09:00:13 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:00:24 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:00:29 
+[error]: undefined -- Wednesday, 17/02/2021, 09:00:29 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:05:04 
+[error]: undefined -- Wednesday, 17/02/2021, 09:05:04 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:05:51 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 09:05:51 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 09:05:51 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 09:05:51 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 09:05:51 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 09:05:51 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 09:05:51 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 09:05:51 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:06:22 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 09:06:22 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 09:06:22 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 09:06:22 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 09:06:22 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 09:06:22 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 09:06:22 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 09:06:22 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:06:44 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 09:06:44 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 09:06:44 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 09:06:44 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 09:06:44 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 09:06:44 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 09:06:44 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 09:06:44 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:06:56 
+[error]: undefined -- Wednesday, 17/02/2021, 09:06:56 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:07:02 
+[error]: undefined -- Wednesday, 17/02/2021, 09:07:02 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:07:20 
+[error]: undefined -- Wednesday, 17/02/2021, 09:07:20 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:07:34 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 09:07:34 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 09:07:34 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 09:07:34 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 09:07:34 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 09:07:34 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 09:07:34 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 09:07:34 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:07:49 
+[error]: undefined -- Wednesday, 17/02/2021, 09:07:49 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:08:05 
+[error]: undefined -- Wednesday, 17/02/2021, 09:08:05 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:08:17 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 09:08:17 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 09:08:17 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 09:08:17 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 09:08:17 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 09:08:17 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 09:08:17 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 09:08:17 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:08:41 
+[error]: undefined -- Wednesday, 17/02/2021, 09:08:41 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:09:46 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 09:09:46 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 09:09:46 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 09:09:46 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 09:09:46 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 09:09:46 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 09:09:46 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 09:09:46 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:10:41 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 09:10:41 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 09:10:41 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 09:10:41 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 09:10:41 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 09:10:41 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 09:10:41 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 09:10:41 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:11:02 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 09:11:02 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 09:11:02 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 09:11:02 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 09:11:02 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 09:11:02 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 09:11:02 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 09:11:02 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:11:36 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 09:11:36 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 09:11:36 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 09:11:36 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 09:11:36 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 09:11:36 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 09:11:36 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 09:11:36 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:12:14 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 09:12:14 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 09:12:14 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 09:12:14 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 09:12:14 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 09:12:14 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 09:12:14 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 09:12:14 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:12:36 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 09:12:36 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 09:12:36 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 09:12:36 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 09:12:36 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 09:12:36 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 09:12:36 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 09:12:36 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:13:19 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 09:13:19 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 09:13:19 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 09:13:19 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 09:13:19 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 09:13:19 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 09:13:19 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 09:13:19 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:13:54 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 09:13:54 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 09:13:54 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 09:13:54 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 09:13:54 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 09:13:54 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 09:13:54 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 09:13:54 
+[error]: jwt expired -- Wednesday, 17/02/2021, 09:13:54 
+[info]: generando token -- Wednesday, 17/02/2021, 09:13:54 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:14:49 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 09:14:49 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 09:14:49 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 09:14:49 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 09:14:49 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 09:14:49 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 09:14:49 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 09:14:49 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:15:54 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 09:15:54 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 09:15:54 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 09:15:54 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 09:15:54 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 09:15:54 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 09:15:54 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 09:15:54 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:17:48 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:17:54 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 09:17:54 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 09:17:54 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 09:17:54 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 09:17:54 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 09:17:54 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 09:17:54 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 09:17:54 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:20:45 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 09:20:45 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 09:20:45 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 09:20:45 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 09:20:45 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 09:20:45 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 09:20:45 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 09:20:45 
+[error]: jwt expired -- Wednesday, 17/02/2021, 09:20:45 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:23:38 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 09:23:38 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 09:23:38 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 09:23:38 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 09:23:38 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 09:23:38 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 09:23:38 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 09:23:38 
+[error]: jwt expired -- Wednesday, 17/02/2021, 09:23:38 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:24:31 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 09:24:31 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 09:24:31 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 09:24:31 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 09:24:31 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 09:24:31 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 09:24:31 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 09:24:31 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:25:01 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 09:25:01 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 09:25:01 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 09:25:01 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 09:25:01 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 09:25:01 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 09:25:01 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 09:25:01 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:26:27 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 09:26:27 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 09:26:27 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 09:26:27 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 09:26:27 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 09:26:27 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 09:26:27 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 09:26:27 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:28:40 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 09:28:40 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 09:28:40 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 09:28:40 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 09:28:40 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 09:28:40 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 09:28:40 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 09:28:40 
+[info]: generando token -- Wednesday, 17/02/2021, 09:28:40 
+[info]: generando token -- Wednesday, 17/02/2021, 09:28:40 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:29:58 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 09:29:58 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 09:29:58 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 09:29:58 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 09:29:58 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 09:29:58 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 09:29:58 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 09:29:58 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:32:55 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 09:32:55 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 09:32:55 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 09:32:55 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 09:32:55 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 09:32:55 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 09:32:55 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 09:32:55 
+[info]: generando token -- Wednesday, 17/02/2021, 09:32:55 
+[info]: generando token -- Wednesday, 17/02/2021, 09:32:55 
+[info]: generando token -- Wednesday, 17/02/2021, 09:32:55 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:50:36 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 09:50:36 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 09:50:36 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 09:50:36 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 09:50:36 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 09:50:36 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 09:50:36 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 09:50:36 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:51:58 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 09:51:58 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 09:51:58 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 09:51:58 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 09:51:58 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 09:51:58 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 09:51:58 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 09:51:58 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:52:44 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 09:52:44 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 09:52:44 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 09:52:44 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 09:52:44 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 09:52:44 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 09:52:44 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 09:52:44 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:53:15 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 09:53:15 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 09:53:15 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 09:53:15 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 09:53:15 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 09:53:15 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 09:53:15 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 09:53:15 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:56:05 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 09:56:05 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 09:56:05 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 09:56:05 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 09:56:05 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 09:56:05 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 09:56:05 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 09:56:05 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:56:28 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 09:56:28 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 09:56:28 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 09:56:28 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 09:56:28 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 09:56:28 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 09:56:28 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 09:56:28 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 09:59:24 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 09:59:24 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 09:59:24 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 09:59:24 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 09:59:24 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 09:59:24 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 09:59:24 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 09:59:24 
+[error]: jwt expired -- Wednesday, 17/02/2021, 09:59:24 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 10:07:40 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 10:07:40 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 10:07:40 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 10:07:40 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 10:07:40 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 10:07:40 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 10:07:40 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 10:07:40 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 10:08:13 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 10:08:13 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 10:08:13 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 10:08:13 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 10:08:13 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 10:08:13 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 10:08:13 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- Wednesday, 17/02/2021, 10:08:13 
+[error]: undefined -- Wednesday, 17/02/2021, 13:21:31 
+[error]: undefined -- Wednesday, 17/02/2021, 13:23:10 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 13:24:13 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 13:24:13 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 13:24:13 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 13:24:13 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 13:24:13 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 13:24:13 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 13:24:13 
+[info]: Escuchando app calendarApp en el puerto 3000 en modo 'production' -- Wednesday, 17/02/2021, 13:24:13 
+[info]: conexion a la base de datos establecida -- Wednesday, 17/02/2021, 13:24:36 
+[info]: ajustando formato para logs -- Wednesday, 17/02/2021, 13:24:36 
+[warn]: agregando modulos de parseo de informacion... -- Wednesday, 17/02/2021, 13:24:36 
+[info]: generando archivo access.log -- Wednesday, 17/02/2021, 13:24:36 
+[info]: generando archivo error.log -- Wednesday, 17/02/2021, 13:24:36 
+[warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 13:24:36 
+[info]: inicializando servidor... -- Wednesday, 17/02/2021, 13:24:36 
+[info]: Escuchando app calendarApp en el puerto 3000 en modo 'production' -- Wednesday, 17/02/2021, 13:24:36 

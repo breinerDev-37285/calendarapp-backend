@@ -1,0 +1,7 @@
+node_modules
+src 
+env.d.ts
+tsconfig.json
+Readme.md 
+.git*
+Dockerfile
