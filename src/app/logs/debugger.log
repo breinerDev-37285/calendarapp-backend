@@ -820,3 +820,432 @@
 [warn]: cargando rutas de auth... -- Wednesday, 17/02/2021, 13:24:36 
 [info]: inicializando servidor... -- Wednesday, 17/02/2021, 13:24:36 
 [info]: Escuchando app calendarApp en el puerto 3000 en modo 'production' -- Wednesday, 17/02/2021, 13:24:36 
+[info]: conexion a la base de datos establecida -- jueves, 18/02/2021, 11:55:40 
+[info]: ajustando formato para logs -- jueves, 18/02/2021, 11:55:40 
+[warn]: agregando modulos de parseo de informacion... -- jueves, 18/02/2021, 11:55:40 
+[info]: generando archivo access.log -- jueves, 18/02/2021, 11:55:40 
+[info]: generando archivo error.log -- jueves, 18/02/2021, 11:55:40 
+[warn]: cargando rutas de auth... -- jueves, 18/02/2021, 11:55:40 
+[info]: inicializando servidor... -- jueves, 18/02/2021, 11:55:40 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- jueves, 18/02/2021, 11:55:40 
+[info]: generando token -- jueves, 18/02/2021, 11:55:40 
+[info]: conexion a la base de datos establecida -- jueves, 18/02/2021, 11:56:08 
+[info]: ajustando formato para logs -- jueves, 18/02/2021, 11:56:08 
+[warn]: agregando modulos de parseo de informacion... -- jueves, 18/02/2021, 11:56:08 
+[info]: generando archivo access.log -- jueves, 18/02/2021, 11:56:08 
+[info]: generando archivo error.log -- jueves, 18/02/2021, 11:56:08 
+[warn]: cargando rutas de auth... -- jueves, 18/02/2021, 11:56:08 
+[info]: inicializando servidor... -- jueves, 18/02/2021, 11:56:08 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- jueves, 18/02/2021, 11:56:08 
+[info]: generando token -- jueves, 18/02/2021, 11:56:08 
+[info]: conexion a la base de datos establecida -- jueves, 18/02/2021, 11:56:37 
+[info]: ajustando formato para logs -- jueves, 18/02/2021, 11:56:37 
+[warn]: agregando modulos de parseo de informacion... -- jueves, 18/02/2021, 11:56:37 
+[info]: generando archivo access.log -- jueves, 18/02/2021, 11:56:37 
+[info]: generando archivo error.log -- jueves, 18/02/2021, 11:56:37 
+[warn]: cargando rutas de auth... -- jueves, 18/02/2021, 11:56:37 
+[info]: inicializando servidor... -- jueves, 18/02/2021, 11:56:37 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: generando token -- jueves, 18/02/2021, 11:56:37 
+[info]: conexion a la base de datos establecida -- jueves, 18/02/2021, 13:00:12 
+[info]: ajustando formato para logs -- jueves, 18/02/2021, 13:00:12 
+[warn]: agregando modulos de parseo de informacion... -- jueves, 18/02/2021, 13:00:12 
+[info]: generando archivo access.log -- jueves, 18/02/2021, 13:00:12 
+[info]: generando archivo error.log -- jueves, 18/02/2021, 13:00:12 
+[warn]: cargando rutas de auth... -- jueves, 18/02/2021, 13:00:12 
+[info]: inicializando servidor... -- jueves, 18/02/2021, 13:00:12 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- jueves, 18/02/2021, 13:00:12 
+[info]: generando token -- jueves, 18/02/2021, 13:00:12 
+[info]: generando token -- jueves, 18/02/2021, 13:00:12 
+[info]: conexion a la base de datos establecida -- jueves, 18/02/2021, 13:03:58 
+[info]: ajustando formato para logs -- jueves, 18/02/2021, 13:03:58 
+[warn]: agregando modulos de parseo de informacion... -- jueves, 18/02/2021, 13:03:58 
+[info]: generando archivo access.log -- jueves, 18/02/2021, 13:03:58 
+[info]: generando archivo error.log -- jueves, 18/02/2021, 13:03:58 
+[warn]: cargando rutas de auth... -- jueves, 18/02/2021, 13:03:58 
+[info]: inicializando servidor... -- jueves, 18/02/2021, 13:03:58 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- jueves, 18/02/2021, 13:03:58 
+[info]: generando token -- jueves, 18/02/2021, 13:03:58 
+[info]: conexion a la base de datos establecida -- jueves, 18/02/2021, 13:13:05 
+[info]: ajustando formato para logs -- jueves, 18/02/2021, 13:13:05 
+[warn]: agregando modulos de parseo de informacion... -- jueves, 18/02/2021, 13:13:05 
+[info]: generando archivo access.log -- jueves, 18/02/2021, 13:13:05 
+[info]: generando archivo error.log -- jueves, 18/02/2021, 13:13:05 
+[warn]: cargando rutas de auth... -- jueves, 18/02/2021, 13:13:05 
+[info]: inicializando servidor... -- jueves, 18/02/2021, 13:13:05 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- jueves, 18/02/2021, 13:13:05 
+[info]: conexion a la base de datos establecida -- jueves, 18/02/2021, 13:23:50 
+[info]: ajustando formato para logs -- jueves, 18/02/2021, 13:23:50 
+[warn]: agregando modulos de parseo de informacion... -- jueves, 18/02/2021, 13:23:50 
+[info]: generando archivo access.log -- jueves, 18/02/2021, 13:23:50 
+[info]: generando archivo error.log -- jueves, 18/02/2021, 13:23:50 
+[warn]: cargando rutas de auth... -- jueves, 18/02/2021, 13:23:50 
+[info]: inicializando servidor... -- jueves, 18/02/2021, 13:23:50 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- jueves, 18/02/2021, 13:23:50 
+[info]: generando token -- jueves, 18/02/2021, 13:23:50 
+[info]: generando token -- jueves, 18/02/2021, 13:23:50 
+[info]: generando token -- jueves, 18/02/2021, 13:23:50 
+[info]: generando token -- jueves, 18/02/2021, 13:23:50 
+[info]: generando token -- jueves, 18/02/2021, 13:23:50 
+[info]: generando token -- jueves, 18/02/2021, 13:23:50 
+[info]: generando token -- jueves, 18/02/2021, 13:23:50 
+[info]: generando token -- jueves, 18/02/2021, 13:23:50 
+[info]: generando token -- jueves, 18/02/2021, 13:23:50 
+[info]: generando token -- jueves, 18/02/2021, 13:23:50 
+[info]: generando token -- jueves, 18/02/2021, 13:23:50 
+[info]: generando token -- jueves, 18/02/2021, 13:23:50 
+[info]: generando token -- jueves, 18/02/2021, 13:23:50 
+[info]: generando token -- jueves, 18/02/2021, 13:23:50 
+[info]: generando token -- jueves, 18/02/2021, 13:23:50 
+[info]: generando token -- jueves, 18/02/2021, 13:23:50 
+[info]: generando token -- jueves, 18/02/2021, 13:23:50 
+[info]: conexion a la base de datos establecida -- viernes, 19/02/2021, 09:42:34 
+[info]: ajustando formato para logs -- viernes, 19/02/2021, 09:42:34 
+[warn]: agregando modulos de parseo de informacion... -- viernes, 19/02/2021, 09:42:34 
+[info]: generando archivo access.log -- viernes, 19/02/2021, 09:42:34 
+[info]: generando archivo error.log -- viernes, 19/02/2021, 09:42:34 
+[warn]: cargando rutas de auth... -- viernes, 19/02/2021, 09:42:34 
+[info]: inicializando servidor... -- viernes, 19/02/2021, 09:42:34 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- viernes, 19/02/2021, 09:42:34 
+[error]: jwt expired -- viernes, 19/02/2021, 09:42:34 
+[info]: generando token -- viernes, 19/02/2021, 09:42:34 
+[info]: generando token -- viernes, 19/02/2021, 09:42:34 
+[info]: generando token -- viernes, 19/02/2021, 09:42:34 
+[info]: generando token -- viernes, 19/02/2021, 09:42:34 
+[info]: generando token -- viernes, 19/02/2021, 09:42:34 
+[info]: generando token -- viernes, 19/02/2021, 09:42:34 
+[info]: generando token -- viernes, 19/02/2021, 09:42:34 
+[info]: generando token -- viernes, 19/02/2021, 09:42:34 
+[info]: generando token -- viernes, 19/02/2021, 09:42:34 
+[info]: generando token -- viernes, 19/02/2021, 09:42:34 
+[info]: generando token -- viernes, 19/02/2021, 09:42:34 
+[info]: generando token -- viernes, 19/02/2021, 09:42:34 
+[info]: generando token -- viernes, 19/02/2021, 09:42:34 
+[info]: generando token -- viernes, 19/02/2021, 09:42:34 
+[info]: generando token -- viernes, 19/02/2021, 09:42:34 
+[info]: conexion a la base de datos establecida -- viernes, 19/02/2021, 10:26:32 
+[info]: ajustando formato para logs -- viernes, 19/02/2021, 10:26:32 
+[warn]: agregando modulos de parseo de informacion... -- viernes, 19/02/2021, 10:26:32 
+[info]: generando archivo access.log -- viernes, 19/02/2021, 10:26:32 
+[info]: generando archivo error.log -- viernes, 19/02/2021, 10:26:32 
+[warn]: cargando rutas de auth... -- viernes, 19/02/2021, 10:26:32 
+[info]: inicializando servidor... -- viernes, 19/02/2021, 10:26:32 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- viernes, 19/02/2021, 10:26:32 
+[info]: generando token -- viernes, 19/02/2021, 10:26:32 
+[error]: jwt expired -- viernes, 19/02/2021, 10:26:32 
+[error]: jwt expired -- viernes, 19/02/2021, 10:26:32 
+[info]: generando token -- viernes, 19/02/2021, 10:26:32 
+[error]: jwt expired -- viernes, 19/02/2021, 10:26:32 
+[info]: generando token -- viernes, 19/02/2021, 10:26:32 
+[error]: jwt expired -- viernes, 19/02/2021, 10:26:32 
+[info]: generando token -- viernes, 19/02/2021, 10:26:32 
+[error]: jwt expired -- viernes, 19/02/2021, 10:26:32 
+[info]: generando token -- viernes, 19/02/2021, 10:26:32 
+[error]: jwt expired -- viernes, 19/02/2021, 10:26:32 
+[info]: conexion a la base de datos establecida -- viernes, 19/02/2021, 10:35:37 
+[info]: ajustando formato para logs -- viernes, 19/02/2021, 10:35:37 
+[warn]: agregando modulos de parseo de informacion... -- viernes, 19/02/2021, 10:35:37 
+[info]: generando archivo access.log -- viernes, 19/02/2021, 10:35:37 
+[info]: generando archivo error.log -- viernes, 19/02/2021, 10:35:37 
+[warn]: cargando rutas de auth... -- viernes, 19/02/2021, 10:35:37 
+[info]: inicializando servidor... -- viernes, 19/02/2021, 10:35:37 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- viernes, 19/02/2021, 10:35:37 
+[error]: jwt expired -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: generando token -- viernes, 19/02/2021, 10:35:37 
+[info]: conexion a la base de datos establecida -- viernes, 19/02/2021, 10:39:07 
+[info]: ajustando formato para logs -- viernes, 19/02/2021, 10:39:07 
+[warn]: agregando modulos de parseo de informacion... -- viernes, 19/02/2021, 10:39:07 
+[info]: generando archivo access.log -- viernes, 19/02/2021, 10:39:07 
+[info]: generando archivo error.log -- viernes, 19/02/2021, 10:39:07 
+[warn]: cargando rutas de auth... -- viernes, 19/02/2021, 10:39:07 
+[info]: inicializando servidor... -- viernes, 19/02/2021, 10:39:07 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- viernes, 19/02/2021, 10:39:07 
+[info]: generando token -- viernes, 19/02/2021, 10:39:07 
+[info]: generando token -- viernes, 19/02/2021, 10:39:07 
+[info]: generando token -- viernes, 19/02/2021, 10:39:07 
+[info]: generando token -- viernes, 19/02/2021, 10:39:07 
+[info]: generando token -- viernes, 19/02/2021, 10:39:07 
+[info]: generando token -- viernes, 19/02/2021, 10:39:07 
+[info]: generando token -- viernes, 19/02/2021, 10:39:07 
+[info]: generando token -- viernes, 19/02/2021, 10:39:07 
+[info]: conexion a la base de datos establecida -- viernes, 19/02/2021, 10:39:54 
+[info]: ajustando formato para logs -- viernes, 19/02/2021, 10:39:54 
+[warn]: agregando modulos de parseo de informacion... -- viernes, 19/02/2021, 10:39:54 
+[info]: generando archivo access.log -- viernes, 19/02/2021, 10:39:54 
+[info]: generando archivo error.log -- viernes, 19/02/2021, 10:39:54 
+[warn]: cargando rutas de auth... -- viernes, 19/02/2021, 10:39:54 
+[info]: inicializando servidor... -- viernes, 19/02/2021, 10:39:54 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[error]: jwt expired -- viernes, 19/02/2021, 10:39:54 
+[error]: jwt expired -- viernes, 19/02/2021, 10:39:54 
+[error]: jwt expired -- viernes, 19/02/2021, 10:39:54 
+[info]: generando token -- viernes, 19/02/2021, 10:39:54 
+[error]: jwt expired -- viernes, 19/02/2021, 10:39:54 
+[error]: jwt expired -- viernes, 19/02/2021, 10:39:54 
+[error]: jwt expired -- viernes, 19/02/2021, 10:39:54 
+[error]: jwt expired -- viernes, 19/02/2021, 10:39:54 
+[error]: jwt expired -- viernes, 19/02/2021, 10:39:54 
+[error]: jwt expired -- viernes, 19/02/2021, 10:39:54 
+[error]: jwt expired -- viernes, 19/02/2021, 10:39:54 
+[error]: jwt expired -- viernes, 19/02/2021, 10:39:54 
+[error]: jwt expired -- viernes, 19/02/2021, 10:39:54 
+[error]: jwt expired -- viernes, 19/02/2021, 10:39:54 
+[error]: jwt expired -- viernes, 19/02/2021, 10:39:54 
+[info]: conexion a la base de datos establecida -- viernes, 19/02/2021, 11:09:55 
+[info]: ajustando formato para logs -- viernes, 19/02/2021, 11:09:55 
+[warn]: agregando modulos de parseo de informacion... -- viernes, 19/02/2021, 11:09:55 
+[info]: generando archivo access.log -- viernes, 19/02/2021, 11:09:55 
+[info]: generando archivo error.log -- viernes, 19/02/2021, 11:09:55 
+[warn]: cargando rutas de auth... -- viernes, 19/02/2021, 11:09:55 
+[info]: inicializando servidor... -- viernes, 19/02/2021, 11:09:55 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- viernes, 19/02/2021, 11:09:55 
+[info]: generando token -- viernes, 19/02/2021, 11:09:55 
+[info]: generando token -- viernes, 19/02/2021, 11:09:55 
+[info]: generando token -- viernes, 19/02/2021, 11:09:55 
+[info]: generando token -- viernes, 19/02/2021, 11:09:55 
+[info]: generando token -- viernes, 19/02/2021, 11:09:55 
+[info]: generando token -- viernes, 19/02/2021, 11:09:55 
+[info]: generando token -- viernes, 19/02/2021, 11:09:55 
+[info]: generando token -- viernes, 19/02/2021, 11:09:55 
+[info]: generando token -- viernes, 19/02/2021, 11:09:55 
+[info]: generando token -- viernes, 19/02/2021, 11:09:55 
+[info]: generando token -- viernes, 19/02/2021, 11:09:55 
+[info]: generando token -- viernes, 19/02/2021, 11:09:55 
+[info]: generando token -- viernes, 19/02/2021, 11:09:55 
+[info]: generando token -- viernes, 19/02/2021, 11:09:55 
+[info]: conexion a la base de datos establecida -- viernes, 19/02/2021, 12:13:08 
+[info]: ajustando formato para logs -- viernes, 19/02/2021, 12:13:08 
+[warn]: agregando modulos de parseo de informacion... -- viernes, 19/02/2021, 12:13:08 
+[info]: generando archivo access.log -- viernes, 19/02/2021, 12:13:08 
+[info]: generando archivo error.log -- viernes, 19/02/2021, 12:13:08 
+[warn]: cargando rutas de auth... -- viernes, 19/02/2021, 12:13:08 
+[info]: inicializando servidor... -- viernes, 19/02/2021, 12:13:08 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- viernes, 19/02/2021, 12:13:08 
+[info]: generando token -- viernes, 19/02/2021, 12:13:08 
+[error]: jwt expired -- viernes, 19/02/2021, 12:13:08 
+[error]: jwt expired -- viernes, 19/02/2021, 12:13:08 
+[error]: jwt expired -- viernes, 19/02/2021, 12:13:08 
+[error]: jwt expired -- viernes, 19/02/2021, 12:13:08 
+[error]: jwt expired -- viernes, 19/02/2021, 12:13:08 
+[error]: jwt expired -- viernes, 19/02/2021, 12:13:08 
+[error]: jwt expired -- viernes, 19/02/2021, 12:13:08 
+[error]: jwt expired -- viernes, 19/02/2021, 12:13:08 
+[info]: conexion a la base de datos establecida -- viernes, 19/02/2021, 12:26:25 
+[info]: ajustando formato para logs -- viernes, 19/02/2021, 12:26:25 
+[warn]: agregando modulos de parseo de informacion... -- viernes, 19/02/2021, 12:26:25 
+[info]: generando archivo access.log -- viernes, 19/02/2021, 12:26:25 
+[info]: generando archivo error.log -- viernes, 19/02/2021, 12:26:25 
+[warn]: cargando rutas de auth... -- viernes, 19/02/2021, 12:26:25 
+[info]: inicializando servidor... -- viernes, 19/02/2021, 12:26:25 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- viernes, 19/02/2021, 12:26:25 
+[error]: jwt expired -- viernes, 19/02/2021, 12:26:25 
+[info]: generando token -- viernes, 19/02/2021, 12:26:25 
+[info]: generando token -- viernes, 19/02/2021, 12:26:25 
+[info]: generando token -- viernes, 19/02/2021, 12:26:25 
+[info]: conexion a la base de datos establecida -- viernes, 19/02/2021, 12:28:10 
+[info]: ajustando formato para logs -- viernes, 19/02/2021, 12:28:10 
+[warn]: agregando modulos de parseo de informacion... -- viernes, 19/02/2021, 12:28:10 
+[info]: generando archivo access.log -- viernes, 19/02/2021, 12:28:10 
+[info]: generando archivo error.log -- viernes, 19/02/2021, 12:28:10 
+[warn]: cargando rutas de auth... -- viernes, 19/02/2021, 12:28:10 
+[info]: inicializando servidor... -- viernes, 19/02/2021, 12:28:10 
+[info]: Escuchando app calendarApp en el puerto 4000 en modo 'development' -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[error]: jwt expired -- viernes, 19/02/2021, 12:28:10 
+[error]: jwt expired -- viernes, 19/02/2021, 12:28:10 
+[error]: jwt expired -- viernes, 19/02/2021, 12:28:10 
+[error]: jwt expired -- viernes, 19/02/2021, 12:28:10 
+[error]: jwt expired -- viernes, 19/02/2021, 12:28:10 
+[error]: jwt expired -- viernes, 19/02/2021, 12:28:10 
+[error]: jwt expired -- viernes, 19/02/2021, 12:28:10 
+[error]: jwt expired -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[error]: jwt expired -- viernes, 19/02/2021, 12:28:10 
+[error]: jwt expired -- viernes, 19/02/2021, 12:28:10 
+[error]: jwt expired -- viernes, 19/02/2021, 12:28:10 
+[error]: jwt expired -- viernes, 19/02/2021, 12:28:10 
+[error]: jwt expired -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[error]: jwt expired -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[error]: jwt expired -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[info]: generando token -- viernes, 19/02/2021, 12:28:10 
+[error]: undefined -- viernes, 19/02/2021, 15:48:35 
+[error]: connect ECONNREFUSED 127.0.0.1:27017 -- lunes, 21/03/2022, 09:25:32 

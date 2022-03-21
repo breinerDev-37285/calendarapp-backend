@@ -12,16 +12,18 @@ export const createUser = ( req:Request, res:Response ) => {
 
     const user = new User( req.body );
 
-    return user.save((err:any,data) => {
+    return user.save( (err:any,data) => {
         if(err) return res.status(500).json({
             ok: false,
-            err: err.message
+            msg: err.message
         })
         
         const token = generarToken({uid: user.id, username: user.username});
 
         return res.status(201).json({
             ok: true,
+            uid: user.id,
+            username: user.username,
             token
         })
     });
@@ -32,7 +34,7 @@ export const getLogin = async ( req:Request, res:Response ) => {
     res.header('X-Service','login');
     try {
         const { email,password }:i_login = req.body;
-        const user = await User.findOne({email}, 'password');
+        const user = await User.findOne({email}, 'password username');
 
         if( !user ) return res.status(404).json({
             ok: false,
@@ -48,6 +50,8 @@ export const getLogin = async ( req:Request, res:Response ) => {
 
         res.status(201).json({
             ok: true,
+            uid: user.id,
+            username: user.username,
             token
         })
         
@@ -63,11 +67,13 @@ export const getLogin = async ( req:Request, res:Response ) => {
 
 export const renewToken = ( req:Request, res:Response ) => {
     res.header('X-Service','renewToken');
-    const payload:i_jwt = req.body.tokenPayload;
-    const token = generarToken(payload);
+    const user:i_jwt = req.body.tokenPayload;
+    const token = generarToken(user);
 
     return res.json({
         ok: true,
+        uid: user.uid,
+        username: user.username,
         token
     })
 }

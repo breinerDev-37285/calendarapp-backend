@@ -13,7 +13,6 @@ router.route(`${path}/user`)
 router.route(`${path}/login`)
     .post( [...loginVal(),validationResult], getLogin );
 
-
 router.route(`${path}/token`)
     .get( validarToken,renewToken );
 

@@ -10,6 +10,6 @@ export const generarToken = ( {uid,username}:i_jwt ) => {
     log.info('generando token')
 
     return sign(payload,String(SECRET_JWT_SEED),{
-        expiresIn: '2h'
+        expiresIn: '3m'
     })
 }

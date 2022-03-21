@@ -12,7 +12,7 @@
     "start": "node ./dist/index.js",
     "docker": "npm run cleanDocker && tsc --build && npm run image && npm run container && rm -rf ./dist",
     "image": "docker build --tag calendarapp .",
-    "container": "docker run --name calendar -p 3000:3000 -d calendarapp",
+    "container": "docker run --name calendar -p 4000:3000 -d calendarapp",
     "cleanDocker": "docker rmi calendarapp -f && docker rm -fv calendar"
   },
   "keywords": [],

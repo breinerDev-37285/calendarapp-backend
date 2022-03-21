@@ -7,7 +7,7 @@ import { Request,Response,NextFunction } from 'express';
 export const validarToken = ( req:Request, res:Response,next:NextFunction ) => {
     res.header('X-Service','renewToken');
     try {
-        const token = req.header('x-token');
+        const token = req.header('X-Token');
         const { SECRET_JWT_SEED } = process.env;
 
         if( !token ) return res.status(403).json({

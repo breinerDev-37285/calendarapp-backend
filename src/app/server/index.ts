@@ -3,6 +3,7 @@ import morgan, { Morgan } from 'morgan';
 import helmet from 'helmet';
 import { log } from '@config/logger';
 import MorganConfig from '@helpers/morganFormats';
+import cors from 'cors';
 
 
 export default abstract class Server<T,F> {
@@ -23,6 +24,7 @@ export default abstract class Server<T,F> {
     private onInit() {
         this.Parser();
         this.Helmet();
+        this.Cors();
         this.log_register();
     }
 
@@ -31,16 +33,22 @@ export default abstract class Server<T,F> {
         this.app.use( urlencoded({
             extended:true
         }))
-        log.warn('agregando modulos de parseo de informacion...')
+        log.warn('agregando modulos de parseo de informacion...');
     }
 
     private log_register() {
-        this.app.use( morgan('personalizado', this.morganConfig.accesLog()))
-        this.app.use( morgan('personalizado',this.morganConfig.errorLog()))
+        this.app.use( morgan('personalizado', this.morganConfig.accesLog()));
+        this.app.use( morgan('personalizado',this.morganConfig.errorLog()));
     }
 
     private Helmet(){
-        this.app.use(helmet())
+        this.app.use(helmet());
+    }
+
+    private Cors(){
+        this.app.use(cors({
+            origin: '*'
+        }));
     }
 
 
